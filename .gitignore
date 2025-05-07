@@ -1,9 +1,0 @@
-.venv
-venv
-**__pycache__
-docs/_build
-build
-src/*.egg-info
-.pytest_cache
-\.ipynb_checkpoints
-\.idea
